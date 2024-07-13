@@ -1,0 +1,52 @@
+
+@media (max-width: 575.98px) {
+  .navbar-nav {
+    text-align: center;
+    display: none;
+  }
+  .ms-auto {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+  }
+}
+.nav-items {
+
+  color: blue;
+  font-size: larger;
+}
+.nav-link:hover {
+  color:blue ;
+  font-size: x-large;
+  
+}
+.nav-link{ color: rgb(79, 141, 182);}
+.btn-site {
+  padding: 10px;
+  width: 200px;
+  border-radius: 20px;
+}
+.input-site {
+  padding: 7px;
+  width: 200px;
+  border-radius: 20px;
+}
+
+
+
+.hero-section{
+  height: 900px;
+	padding-top: 260px;
+	display: block;
+	background-image: url("./Images/hero-bg.png");
+	background-size: cover;
+	background-color: #f3f7f9;
+	background-position: right top;
+	background-repeat: no-repeat;
+	position: relative;
+	overflow: hidden;
+}
+.site-btn {
+  padding: 20px;
+}
+
